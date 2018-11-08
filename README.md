@@ -28,8 +28,6 @@ You can access all of them by :
 jupyter-notebook
 ```
 ## Available Notebooks
-
-* [Dataset Utilities](https://github.com/crowdAI/spotify-sequential-skip-prediction-challenge/blob/master/dataset_utils.ipynb)
   
 * [Baseline Submissions](https://github.com/crowdAI/spotify-sequential-skip-prediction-challenge/blob/master/baseline_submissions.ipynb)
   
