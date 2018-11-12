@@ -29,12 +29,12 @@ jupyter-notebook
 ```
 ## Available Notebooks
   
-* [Baseline Submissions](https://github.com/crowdAI/spotify-sequential-skip-prediction-challenge/blob/master/baseline_submissions.ipynb)
+* [Baseline Submissions](https://github.com/crowdAI/skip-prediction-challenge-starter-kit/blob/master/baseline_submissions.ipynb)
   
-* [Locally test the evaluation function](https://github.com/crowdAI/spotify-sequential-skip-prediction-challenge/blob/master/local_evaluation.ipynbb)   
+* [Locally test the evaluation function](https://github.com/crowdAI/skip-prediction-challenge-starter-kit/blob/master/local_evaluation.ipynb)   
 
 ## Miscellaneous Resources
-* [Download audio previews](https://github.com/crowdAI/spotify-sequential-skip-prediction-challenge/blob/master/preview_downloader.ipynb)
+* [Download audio previews](https://github.com/crowdAI/skip-prediction-challenge-starter-kit/blob/master/preview_downloader.ipynb
 
 # Acknowledgements  
 We would like to thank our co-organizers from WSDM and CrowdAI for making this challenge possible.
