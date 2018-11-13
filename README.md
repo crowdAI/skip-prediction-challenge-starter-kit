@@ -17,8 +17,8 @@ Please download the dataset from [https://www.crowdai.org/challenges/spotify-seq
 |-- data/
 |   |-- training_set/ (training sessions)
 |   |-- test_set/ (leaderboard partial sessions)
-|   |-- Track_Features/ (track metadata and audio features)
-|   |-- Submissions/ (submission folder - contains sample submissions)
+|   |-- track_features/ (track metadata and audio features)
+|   |-- submissions/ (submissions folder - contains sample submissions)
 ```
 
 # Usage
