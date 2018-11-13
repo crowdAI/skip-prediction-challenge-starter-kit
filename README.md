@@ -25,7 +25,7 @@ Please download the dataset from [https://www.crowdai.org/challenges/spotify-seq
 Now you can refer to the list of Jupyter Notebooks for different aspects of the challenge and the datasets.
 You can access all of them by :
 ```bash
-jupyter-notebook
+jupyter notebook
 ```
 ## Available Notebooks
   
