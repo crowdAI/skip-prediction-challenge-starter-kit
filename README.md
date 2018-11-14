@@ -1,7 +1,7 @@
 # skip-prediction-challenge-starter-kit
 <img src="https://dnczkxd1gcfu5.cloudfront.net/images/challenges/image_file/50/Spotify_Logo_Green_Coated_copy.png" alt="Spotify-Logo" width="150"/><img src="http://www.wsdm-conference.org/2019/img/logo.png" alt="WSDM-Logo" width="300"/><img src="https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true" alt="CrowdAI-Logo" width="300"/>
 
-[![gitter-badge](https://badges.gitter.im/crowdAI/crowdai-mapping-challenge.png)](https://gitter.im/crowdAI/crowdai-mapping-challenge)
+[![gitter-badge](https://badges.gitter.im/crowdAI/crowdai-mapping-challenge.png)](https://gitter.im/crowdAI/spotify-sequential-skip-prediction-challenge)
 
 # Installation
 ```
