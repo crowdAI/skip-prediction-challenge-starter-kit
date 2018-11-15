@@ -1,4 +1,4 @@
 pandas==0.23.4
 spotipy==2.4.4
-requests==2.3.0
+requests>=2.20.0
 jupyter==1.0.0
