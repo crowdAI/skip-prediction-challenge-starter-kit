@@ -33,8 +33,5 @@ jupyter notebook
   
 * [Locally test the evaluation function](https://github.com/crowdAI/skip-prediction-challenge-starter-kit/blob/master/local_evaluation.ipynb)   
 
-## Miscellaneous Resources
-* [Download audio previews](https://github.com/crowdAI/skip-prediction-challenge-starter-kit/blob/master/preview_downloader.ipynb)
-
 # Acknowledgements  
 We would like to thank our co-organizers from WSDM and CrowdAI for making this challenge possible.
