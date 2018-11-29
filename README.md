@@ -5,8 +5,8 @@
 
 # Installation
 ```
-git clone https://github.com/crowdAI/skip-prediction-wsdm2019-starter-kit
-cd skip-prediction-wsdm2019-starter-kit
+git clone https://github.com/crowdAI/skip-prediction-challenge-starter-kit
+cd skip-prediction-challenge-starter-kit
 pip install -r requirements.txt
 ```
 
